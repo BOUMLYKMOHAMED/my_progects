@@ -17,3 +17,5 @@
  * Splash screen (launch screen)
  * Top quality clean code created by experienced senior Android developer
  * Easy configuration
+
+https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-90e6-c12560f00ea2.mp4
