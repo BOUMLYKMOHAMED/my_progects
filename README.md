@@ -40,11 +40,10 @@ https://user-images.githubusercontent.com/61798615/153722747-f1b35d35-dab5-41d0-
 This applicatios is very simple, the client gave me the design like this, he wants it just as acadimic project, so it may look very simple;
  * Developed with Android Studio, Gradle & java;
  * Support for   Jelly Bean (Android 4.1) and newer;
- * Use Sqlite Database;
- * use the location ( the player will now his place on the maps);
- * has question to three level easy, medium and hard acording to point;
- *  
-
+ * Used SQlite Database;
+ * Used the location ( the player will now his place on the maps);
+ * Has questions for three level easy, medium and hard acording to earnig point;
+ * sort the challenge by time and by score
 
 https://user-images.githubusercontent.com/61798615/154476067-44aac855-8ec6-4383-a7e8-4d1ef140cc61.mp4
 
