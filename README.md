@@ -16,6 +16,7 @@
  * Local pages (available in offline);
  * Splash screen (launch screen);
  * Top quality clean code;
+ * JSON API
 
 https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-90e6-c12560f00ea2.mp4
 
@@ -43,7 +44,9 @@ This applicatios is very simple, the client gave me the design like this, he wan
  * Used SQlite Database;
  * Used the location ( the player will now his place on the maps);
  * Has questions for three level easy, medium and hard acording to earnig point;
- * sort the challenge by time and by score
+ * sort the challenge by time and by score;
+ * fetch the questions with multiple choice from https://opentdb.com/api_config.php;
+ * JSON API;
 
 https://user-images.githubusercontent.com/61798615/154476067-44aac855-8ec6-4383-a7e8-4d1ef140cc61.mp4
 
