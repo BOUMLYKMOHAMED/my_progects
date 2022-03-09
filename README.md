@@ -1,4 +1,4 @@
-# 1- Silda collecteurs 
+# - Silda collecteurs 
 I have developed this application for Silda Collecteurs company. This application is already in production, because of that i delete the login part from the video, and i am not export the data because of same reason; 
 # Features:
  * Developed with Android Studio, Gradle & java;
@@ -8,7 +8,7 @@ I have developed this application for Silda Collecteurs company. This applicatio
  * Use the volley library to fetch data from MYSQL databases;
  * JSON API
  * Top quality clean code;
- * application is offline available. The employ need the connection just when they want send or fetch data from server;
+ * Application is offline available. The employees need the connection just when they want to send or fetch data from server;
 
 https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-b4df-18f66cbe8c38.mp4
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-
 
 
 
-# 1- Webview-Application
+# - Webview-Application
 # Features:
  * Developed with Android Studio, Gradle & java;
  * Support for  Lollipop (Android 5.0) and newer;
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-
 
 https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-90e6-c12560f00ea2.mp4
 
-# 2- EV-Conso
+# - EV-Conso
  * Developed with Android Studio, Gradle & java;
  * Support for   Jelly Bean (Android 4.1) and newer;
  * Material design following Android Design Guidelines;
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-
 
 https://user-images.githubusercontent.com/61798615/153722950-f84410b0-43e7-46ed-9339-cc885ca8b738.mp4
 
-# 3- LostObjects
+# - LostObjects
  * Developed with Android Studio, Gradle & java;
  * Support for   Jelly Bean (Android 4.1) and newer;
  * Material design following Android Design Guidelines;
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/61798615/153722950-f84410b0-43e7-46ed-
  
 https://user-images.githubusercontent.com/61798615/153722747-f1b35d35-dab5-41d0-be17-a18712ac5ec6.mp4
 
-# 4- FedUni Millionaire
+# - FedUni Millionaire
 This applicatios is very simple, the client gave me the design like this, he wants it just as acadimic project, so it may look very simple;
  * Developed with Android Studio, Gradle & java;
  * Support for   Jelly Bean (Android 4.1) and newer;
