@@ -1,3 +1,21 @@
+# 1- Silda collecteurs 
+I have developed this application for Silda Collecteurs company. This application is already in production, because of that i delete the login part from the video, and i am not export the data because of same reason; 
+# Features:
+ * Developed with Android Studio, Gradle & java;
+ * Support for   Jelly Bean (Android 4.1) and newer;
+ * Send and import data from company server;
+ * Use tha SQLite database for local storage;
+ * Use the volley library to fetch data from MYSQL databases;
+ * JSON API
+ * Top quality clean code;
+ * application is offline available. The employ need the connection just when they want send or fetch data from server;
+
+https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-b4df-18f66cbe8c38.mp4
+
+
+
+
+
 # 1- Webview-Application
 # Features:
  * Developed with Android Studio, Gradle & java;
