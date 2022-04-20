@@ -2,12 +2,25 @@
 I didn't upload all the project that i worked on it, just some of them. so you will find my fiverr acount here: 
 https://www.fiverr.com/mohamedboukha?public_mode=true
 
+# - Freelace Keep Going
+# Features:
+ * Developed with Android Studio, Gradle & java;
+ * Support Lollipop (Android 5) and newer;
+ * Firebase (RealTime database & Authentication);
+ * Share preference for local storage;
+ * CalanderView;
+ * JSON API
+ * Top quality clean code;
+ * Application is on line available.
+
+https://user-images.githubusercontent.com/61798615/164324274-eb2c9e4f-24ab-4c4e-9a56-3d63cd35f72a.mp4
+
 
 # - Silda collecteurs 
 I have developed this application for Silda Collecteurs company. This application is already in production, because of that i delete the login part from the video, and i am not export the data because of same reason; 
 # Features:
  * Developed with Android Studio, Gradle & java;
- * Support for   Jelly Bean (Android 4.1) and newer;
+ * Support Jelly Bean (Android 4.1) and newer;
  * Send and import data from company server;
  * Use tha SQLite database for local storage;
  * Use the volley library to fetch data from MYSQL databases;
@@ -24,7 +37,7 @@ https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-
 # - Webview-Application
 # Features:
  * Developed with Android Studio, Gradle & java;
- * Support for  Lollipop (Android 5.0) and newer;
+ * Support Lollipop (Android 5.0) and newer;
  * Material design following Android Design Guidelines;
  * Super-fast and powerful webview engine;
  * Webview support Adblock;
@@ -45,7 +58,7 @@ https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-
 
 # - EV-Conso
  * Developed with Android Studio, Gradle & java;
- * Support for   Jelly Bean (Android 4.1) and newer;
+ * Support Jelly Bean (Android 4.1) and newer;
  * Material design following Android Design Guidelines;
  * Top quality clean code;
 
@@ -63,7 +76,7 @@ https://user-images.githubusercontent.com/61798615/153722747-f1b35d35-dab5-41d0-
 # - FedUni Millionaire
 This applicatios is very simple, the client gave me the design like this, he wants it just as acadimic project, so it may look very simple;
  * Developed with Android Studio, Gradle & java;
- * Support for   Jelly Bean (Android 4.1) and newer;
+ * Support Jelly Bean (Android 4.1) and newer;
  * Used SQlite Database;
  * Used the location ( the player will now his place on the maps);
  * Has questions for three level easy, medium and hard acording to earnig point;
