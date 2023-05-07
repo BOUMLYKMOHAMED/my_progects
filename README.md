@@ -56,28 +56,12 @@ I have developed this application for Silda Collecteurs company. This applicatio
 https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-b4df-18f66cbe8c38.mp4
 
 
+# - Rafiaa 
+
 
 
 
 # - Webview-Application
-# Features:
- * Developed with Android Studio, Gradle & java;
- * Support Lollipop (Android 5.0) and newer;
- * Material design following Android Design Guidelines;
- * Super-fast and powerful webview engine;
- * Webview support Adblock;
- * Fetch the ads from server;
- * Fetch Url from the server;
- * AdMob (native, banner and interstitial ad);
- * Facebook (native, banner and interstitial ad);
- * Unity (banner and interstitial ad);
- * Mediation irensource and facebook (banner and interstitial ad);
- * Each activity has separate ad (facebook, admob, unity and irensource);
- * Support for opening links in internal webview;
- * Local pages (available in offline);
- * Splash screen (launch screen);
- * Top quality clean code;
- * JSON API
 
 https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-90e6-c12560f00ea2.mp4
 
@@ -86,6 +70,8 @@ https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-
  * Support Jelly Bean (Android 4.1) and newer;
  * Material design following Android Design Guidelines;
  * Top quality clean code;
+
+
 
 https://user-images.githubusercontent.com/61798615/153722950-f84410b0-43e7-46ed-9339-cc885ca8b738.mp4
 
