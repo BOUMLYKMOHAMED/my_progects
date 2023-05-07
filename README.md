@@ -43,22 +43,13 @@ https://user-images.githubusercontent.com/61798615/164324274-eb2c9e4f-24ab-4c4e-
 
 # - Silda collecteurs 
 I have developed this application for Silda Collecteurs company. This application is already in production, because of that i delete the login part from the video, and i am not export the data because of same reason; 
-# Features:
- * Developed with Android Studio, Gradle & java;
- * Support Jelly Bean (Android 4.1) and newer;
- * Send and import data from company server;
- * Use tha SQLite database for local storage;
- * Use the volley library to fetch data from MYSQL databases;
- * JSON API
- * Top quality clean code;
- * Application is offline available. The employees need the connection just when they want to send or fetch data from server;
 
 https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-b4df-18f66cbe8c38.mp4
 
 
 # - Rafiaa 
 
-
+![Uploading rafia1.png…]()
 
 
 # - Webview-Application
@@ -66,21 +57,10 @@ https://user-images.githubusercontent.com/61798615/157463224-5da9e9a2-77b9-4e5e-
 https://user-images.githubusercontent.com/61798615/153461644-c89d4ddf-3f21-409b-90e6-c12560f00ea2.mp4
 
 # - EV-Conso
- * Developed with Android Studio, Gradle & java;
- * Support Jelly Bean (Android 4.1) and newer;
- * Material design following Android Design Guidelines;
- * Top quality clean code;
-
-
 
 https://user-images.githubusercontent.com/61798615/153722950-f84410b0-43e7-46ed-9339-cc885ca8b738.mp4
 
 # - LostObjects
- * Developed with Android Studio, Gradle & java;
- * Support for   Jelly Bean (Android 4.1) and newer;
- * Material design following Android Design Guidelines;
- * Top quality clean code;
- * firebase firestore;
  
 https://user-images.githubusercontent.com/61798615/153722747-f1b35d35-dab5-41d0-be17-a18712ac5ec6.mp4
 
